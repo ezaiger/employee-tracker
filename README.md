@@ -21,6 +21,10 @@
   - Initialize the npm project by entering 'npm init -y' in the command line. 
   - Install Inquirer by entering 'npm i inquirer@8.2.4' in the command line.
   - Install console.table by entering 'npm i console.table' in the command line.
+  - Install mysql by entering 'mysql -u root -p' and enter your password.
+  - ...source db/schema.sql
+  - ...source db/seeds.sql
+  - ...quit or exit
   - Invoke the application by entering the following command: node index.js
   
   ## Usage

@@ -1,4 +1,22 @@
 {
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "## License   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)<br>   Mozilla Public License 2.0 (MPL-2.0)     Further resources on Mozilla Public License 2.0 (MPL-2.0) - Please click on the license badge above for more information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezaiger/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezaiger/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/ezaiger/employee-tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
